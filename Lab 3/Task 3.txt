@@ -1,0 +1,20 @@
+Dear Students,
+All should submit you lab experiment 3 in the specified format by 25 July 2024.
+
+Name of the Experiment: Data Retrieval using JOINS 
+
+INNER JOIN will only show rows where there's a match between the IDs in both tables. 
+LEFT JOIN and RIGHT JOIN will include all rows from the left or right table respectively, with NULLs for unmatched rows
+from the other table.
+FULL JOIN will include all rows from both tables, with NULLs for unmatched rows. 
+EQUI JOIN and INNER JOIN are functionally equivalent. 
+SELF JOIN is used to join a table to itself. 
+CROSS JOIN produces a Cartesian product of both tables  
+
+
+Entities: :   TStudent_Master(
+
+USN, NAME ,COURSE ,BATCH, MOBNO, EMAIL, CITY)
+                   TStudents_Details (USN, SEMESTER, TM1, TM2, TM3, LM1, LM2 ,TOTAL, PERCENTAGE)
+
+Minimum 10 tuples should be included in each entity.

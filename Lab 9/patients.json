@@ -1,0 +1,16 @@
+{
+  "patients": [
+    {
+      "name": "John Doe",
+      "age": 45,
+      "gender": "male",
+      "diagnosis": "Common cold"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 32,
+      "gender": "female",
+      "diagnosis": "Sprained ankle"
+    }
+  ]
+}

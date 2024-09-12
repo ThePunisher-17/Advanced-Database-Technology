@@ -1,0 +1,39 @@
+All are informed to execute the following queries with respect to your domain and upload the document ( Document name: (USN_EXP4) by 1st August 2024 as per the specified format.
+ 
+Here I mentioned "Students Management System" domain, you are instructed to write and execute a query for your domain.
+ 
+For reference  ( Basic attributes only added here, you need to identify the reference keys (based on requirements) also for each table to implement the following queries)
+ 
+Table Details : Tstudents {SID, SName}, Tenrollement { SID, CID}, TCourse(CID, CName, PID), Tscores (SID,CID, Score)
+ 
+Nested query:
+ 
+1. Retrieve the names of students who are enrolled in the same course as registerd by  the student 'Anto'.
+ 
+2.Find the courses that have more enrolled students than the average number of students enrolled in all courses.
+ 
+3.  List the names of professors who teach courses that 'BOMBLE SHIVAM ' is enrolled in.
+ 
+4.Retrieve the names of students who have scored higher than the average score in 'Database Systems' course.
+ 
+5. Find the students who have scored the highest in each course.
+ 
+6. List the names of students who have taken all the courses offered by Professor 'CODD'.
+ 
+7.  Retrieve the course names that have never been taken by  Professor 'Merin'.
+ 
+8. Find the students who have higher total scores than the average total score of all students.
+ 
+ 
+ 
+Correlated Query
+ 
+1.Retrieve the names of students who have scored higher than the average score in their respective courses.
+ 
+2.Find the courses where the average score is higher than the overall average score.
+ 
+3. List the students who have taken more courses than the average number of courses taken by all students.
+ 
+4.Find the names of students who have attended more than the average number of classes for each course they are enrolled in.
+ 
+5. List the names of students who have higher total scores in their department than the average total score of all students in that department.

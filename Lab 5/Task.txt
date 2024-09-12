@@ -1,0 +1,10 @@
+Exercise No: LAB Exercise – 5 
+Date: 8-08-2024  
+Exercise: Demonstration of View database object using SQL Queries. Perform the following tasks: 
+Q1. Demonstrate the creation and processing of SQL Views on the tables created for your Application Domain.
+1. At least 2 views should be created which holds the records from single table and  At least 3 views should be created which holds the records from multiple tables.
+2. Perform the insert, delete and update operations on the Views which created for performing the different operations and state the inferences.
+Specification:
+3. The operations should be performed on tables with logical sense and mention valid justification.
+General Instruction:
+1. Create a word document and paste all the answers. File name should be your register number followed by lab No: Example: 2448501_Lab5. Upload the answer document in Google Classroom on or before the deadline mentioned.
